@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=XDP test
+Comment=
+Exec=cargo run
+Icon=
+Terminal=False
